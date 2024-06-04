@@ -1,16 +1,33 @@
-## Hi there 👋
+#   _______________________________________________
+             _-'    .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.  --- `-_
+          _-'.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.--.  .-.-.`-_
+       _-'.-.-.-. .---.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-`__`. .-.-.-.`-_
+    _-'.-.-.-.-. .-----.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-----. .-.-.-.-.`-_
+ _-'.-.-.-.-.-. .---.-. .-----------------------------. .-.---. .---.-.-.-.`-_
+:-----------------------------------------------------------------------------:
+`---._.------ Christopher Thomas ---- DEV --- dev@findthefunction.io ---._.---'
 
-<!--
-**findthefunction/findthefunction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello! I'm **Christopher**, a software developer passionate about open-source projects, Linux and managing data in creative and visually interactives ways.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Programming Languages:
+  - Python
+  - JavaScript
+  - Golang
+  - BASH
+  - Django
+  - Node.js
+  - React
+  - Solidity
+
+### Projects
+
+
+### Contact Me
+[Email](mailto:dev@findthefunction.io)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=findthefunction&show_icons=true)
