@@ -29,8 +29,6 @@ Hello! I'm **Christopher**, a software developer passionate about open-source pr
 
 ---
 
-![findthefunction's Stats](https://github-readme-stats.vercel.app/api?username=findthefunction&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-
 ![findthefunction's Streak](https://github-readme-streak-stats.herokuapp.com/?user=findthefunction&theme=tokyonight&hide_border=false)
 
 ![findthefunction's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=findthefunction&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
