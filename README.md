@@ -3,7 +3,8 @@
 
 ## About Me
 
-Hello! I'm **Christopher**, a software developer passionate about open-source projects, Linux and managing data in creative and visually interactives ways.
+Hello! I'm **Christopher**, a full stack developer, passionate about open-source projects, Linux and managing data in creative and visually interactives ways.  
+**Terminal is my safe place.**
 
 ### Skills
 - Programming Languages:
