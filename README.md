@@ -29,7 +29,6 @@ Hello! I'm **Christopher**, a full stack developer, passionate about open-source
 [Email](mailto:dev@findthefunction.io)
 
 ---
-
 ![findthefunction's Streak](https://github-readme-streak-stats.herokuapp.com/?user=findthefunction&theme=merko&hide_border=false)
 
-![findthefunction's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=findthefunction&theme=merko&show_icons=true&hide_border=false&layout=compact)
+![findthefunction's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=findthefunction&size_weight=0&count_weight=1&theme=merko&show_icons=true&hide_border=false&layout=compact)
