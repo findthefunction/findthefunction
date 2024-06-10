@@ -10,16 +10,20 @@
 Hello! I'm **Christopher**, a full stack developer, passionate about open-source projects, Linux and managing data in creative and visually interactives ways.  
 **The terminal is my safe place.**
 
-### Skills
-- Programming Languages:
-  - Python
-  - JavaScript
-  - Golang
-  - BASH
-  - Django
-  - Node.js
-  - React
-  - Solidity
+
+# Skills Overview
+
+| Category       | Skills                                               |
+|----------------|--------------------------------------------------------------------------------------|
+| **Languages**  | Python, JavaScript, TypeScript, Go, Rust, HTML, CSS, Solidity  
+| **Databases**  | MongoDB, PostgreSQL, MySQL, SQLite, Redis            
+| **Deployment** | Docker, Docker Swarm, Kubernetes, CI/CD (Jenkins, GitHub Actions), Ansible, Terraform 
+| **Frameworks** | Django, Flask, Express, React, Angular, Vue.js, THREE.js      
+| **Cloud**      | AWS, Azure, Google Cloud, DigitalOcean, Wordpress               
+| **Security**   | Security Audits, Penetration Testing, Vulnerability Scanning, Secure Coding Practices 
+| **Tools**      | Git, VS Code, Postman, JIRA,           
+| **APIs**       | REST, GraphQL, SOAP                                  
+| **Others**     | Linux, Bash Scripting, Agile Methodologies, Unit Testing, Integration Testing 
 
 ### Projects
 
