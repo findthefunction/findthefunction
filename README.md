@@ -1,15 +1,12 @@
 ![findthefunction's Streak](https://github-readme-streak-stats.herokuapp.com/?user=findthefunction&theme=merko&hide_border=false)
 ![findthefunction's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=findthefunction&size_weight=0&count_weight=1&theme=merko&show_icons=true&hide_border=false&layout=compact)
 
-
-
-
 ## About Me
 
 Hello! I'm **Christopher**, a full stack developer, passionate about open-source projects, Linux and managing data in creative and visually interactives ways.  Currently implementing custom Llamas and learning Mandarin.
+
 **The terminal is my safe place.**
 
-![workstation](https://github.com/findthefunction/findthefunction/assets/31022640/a446be77-0139-4a9e-af8b-949175b8f19d)
 
 # Skills Overview
 
@@ -35,6 +32,7 @@ Hello! I'm **Christopher**, a full stack developer, passionate about open-source
 
 ### Contact Me
 [Email](mailto:findthefunction+github@gmail.com)
+![workstation](https://github.com/findthefunction/findthefunction/assets/31022640/a446be77-0139-4a9e-af8b-949175b8f19d)
 
 ---
 
