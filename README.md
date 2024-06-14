@@ -2,14 +2,14 @@
 ![findthefunction's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=findthefunction&size_weight=0&count_weight=1&theme=merko&show_icons=true&hide_border=false&layout=compact)
 
 
-![image](https://github.com/findthefunction/findthefunction/assets/31022640/f2683952-ce82-48a7-85e8-ca17ec017a6e)
 
 
 ## About Me
 
-Hello! I'm **Christopher**, a full stack developer, passionate about open-source projects, Linux and managing data in creative and visually interactives ways.  
+Hello! I'm **Christopher**, a full stack developer, passionate about open-source projects, Linux and managing data in creative and visually interactives ways.  Currently implementing custom Llamas and learning Mandarin.
 **The terminal is my safe place.**
 
+![workstation](https://github.com/findthefunction/findthefunction/assets/31022640/a446be77-0139-4a9e-af8b-949175b8f19d)
 
 # Skills Overview
 
