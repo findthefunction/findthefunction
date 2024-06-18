@@ -5,7 +5,7 @@
 
 Hello! I'm **Christopher**, a full stack developer, passionate about open-source projects, Linux and managing data in creative and visually interactives ways.  Currently implementing custom Llamas and learning Mandarin.
 
-**The terminal is my safe place.**
+**Building something everyday.**
 
 
 # Skills Overview
