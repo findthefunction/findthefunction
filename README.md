@@ -17,7 +17,7 @@ Hello! I'm **Christopher**, a full stack developer, passionate about open-source
 | **Deployment** | Docker, Docker Swarm, Kubernetes, CI/CD (Jenkins, GitHub Actions), Ansible, Terraform 
 | **Frameworks** | Django, Flask, Express, React, Angular, Vue.js, THREE.js      
 | **Cloud**      | AWS, Azure, Google Cloud, DigitalOcean, Wordpress               
-| **Security**   | Security Audits, Penetration Testing, Vulnerability Scanning, Secure Coding Practices 
+| **Security**   | Security Audits, Penetration Testing, Vulnerability Scanning, Secure Coding Practices, Kali Offensive Toolset 
 | **Tools**      | Git, VS Code, Postman, JIRA,           
 | **APIs**       | REST, GraphQL, SOAP                                  
 | **Others**     | Linux, Bash Scripting, Agile Methodologies, Unit Testing, Integration Testing 
