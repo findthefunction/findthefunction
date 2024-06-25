@@ -28,7 +28,6 @@ Hello! I'm **Christopher**, a full stack developer, passionate about open-source
 [3D Bio Page](http://167.99.181.243/)
 
 
-
 ### Contact Me
 [Email](mailto:findthefunction+github@gmail.com)
 ![workstation](https://github.com/findthefunction/findthefunction/assets/31022640/a446be77-0139-4a9e-af8b-949175b8f19d)
