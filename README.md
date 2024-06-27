@@ -3,7 +3,9 @@
 
 ## About Me
 
-Hello! I'm **Christopher**, a full stack developer, passionate about open-source projects, Linux and managing data in creative and visually interactives ways.  Currently implementing custom Llamas, tracking wildifre crews and learning Mandarin.
+Hello! I'm **Christopher**, a full stack developer.
+
+I'm passionate about learning and continuously expanding my skill set. With a solid foundation in a variety of languages, databases, and frameworks, I thrive on exploring new technologies and methodologies. My diverse background spans across deployment, cloud services, security practices, and more, making me well-equipped to tackle complex challenges and deliver robust, scalable solutions. --> Currently implementing custom Llamas, tracking wildifre crews and learning Mandarin.
 
 **Building something everyday.**
 
