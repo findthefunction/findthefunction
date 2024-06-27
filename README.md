@@ -7,7 +7,8 @@ Hello! I'm **Christopher**, a full stack developer, passionate about open-source
 
 **Building something everyday.**
 
-# Skills Overview
+# Skills Overview:
+**Need to organize and update this**
 
 | Category       | Skills                                               |
 |----------------|--------------------------------------------------------------------------------------|
