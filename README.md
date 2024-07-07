@@ -6,7 +6,8 @@
 Hello! I'm **Christopher**, a full stack developer honing my OpSec / DevSecOps skillsets.
 
 I'm passionate about learning and continuously expanding my skill set. With a solid foundation in a variety of languages, databases, and frameworks, I thrive on exploring new technologies and methodologies. My diverse background spans across deployment, cloud services, security practices, and more, making me well-equipped to tackle complex challenges and deliver robust, scalable solutions. --> Currently focused on SOC, incident response, implementing custom Llamas, tracking wildifre crews and learning Mandarin.
-ALso might be busy playing Elden Rings in my down time....almost beat the DLC...corretion: beat the DLC 
+
+Installed Kali purple for blue team environment
 
 **Building something everyday.**
 
