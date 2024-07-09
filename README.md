@@ -7,7 +7,7 @@ Hello! I'm **Christopher**, a full stack developer honing my OpSec / DevSecOps s
 
 I'm passionate about learning and continuously expanding my skill set. With a solid foundation in a variety of languages, databases, and frameworks, I thrive on exploring new technologies and methodologies. My diverse background spans across deployment, cloud services, security practices, and more, making me well-equipped to tackle complex challenges and deliver robust, scalable solutions. --> Currently focused on SOC, incident response, implementing custom Llamas, tracking wildifre crews and learning Mandarin.
 
-Installed Kali purple for blue team environment, working on a series of instructionals for the various tools in conjunction with earning about them
+Installed Kali purple for blue team environment, working on a series of instructionals for the various tools in conjunction with learning about them -> first stop nmap
 
 **Building something everyday.**
 .
