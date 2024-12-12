@@ -1,4 +1,4 @@
-![findthefunction's Streak](https://github-readme-streak-stats.herokuapp.com/?user=findthefunction&theme=merko&hide_border=false)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=findthefunction&theme=tokyonight-duo)](https://git.io/streak-stats)
 ![findthefunction's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=findthefunction&size_weight=0&count_weight=1&theme=merko&show_icons=true&hide_border=false&layout=compact)
 
 ## About Me
